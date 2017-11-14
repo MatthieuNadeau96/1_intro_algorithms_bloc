@@ -1,0 +1,4 @@
+
+quick_sort 100,000 items in an array:   0.531000   0.000000   0.531000 (  0.536589)
+heap_sort 100,000 items in an array:   0.563000   0.000000   0.563000 (  0.559279)
+bucket_sort 100,000 items in an array:   4.891000   5.969000  10.860000 ( 10.892013)
