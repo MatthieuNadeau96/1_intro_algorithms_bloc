@@ -1,0 +1,23 @@
+1.) An algorithm that has O(1) is a jet and an algorithm that has O(2^n) is a car.
+
+2.) The best case scenario for binary search is if the middle point of the collection is the value being searched for. If using a tree to represent binary search, the mid point would be the top of the tree.
+
+3.) The worst case scenario for binary search is if the value being searched for is at the first or very last index of the collection. Using a tree, it would be at the very bottom of the tree.
+
+4.) Using a tree to represent the binary search, the bounded case scenario would be if the value being searched for is somewhere between the top and bottom of the tree.
+
+5.) Google Sheet
+
+6.) Does not exist.
+
+7.) O(2^n)
+
+8.) linear_search.rb
+
+9.) I'm having trouble understanding what questions 8 and 9 are asking.
+
+10.) O(1)
+
+11.) Ω(1)
+
+12.) Ө(log n)
