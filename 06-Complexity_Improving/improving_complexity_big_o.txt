@@ -1,0 +1,8 @@
+Version One:
+      insertion sort = O(n^2)
+
+Version Two:
+      Merge sort = O(n log n)
+
+Version Three:
+      Selection sort with space complexity = O(1)
