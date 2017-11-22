@@ -1,0 +1,11 @@
+1.) O(1). Constant time to execute, regardless of the size of n.
+
+2.) O(n). Linear because it depends on the size of the collection, must iterate through entire collection to find the largest.
+
+3.) O(n). Linear because it still iterates through the subarrays to find the largest.
+
+4.) O(2^n). As n increases in size the number of operations increase exponentially. Can be thought of as a tree with n layers, as n splits - with (n-1) and (n-2) - the iterations increase exponentially.
+
+5.) O(n). Linear, it runs for the length of n-1.
+
+6.) O(n^2). Quadratic time. As n grows, the collection must be iterated over multiple more times as its recursions increase.
